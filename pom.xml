@@ -36,7 +36,7 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.142:8081/repository/maven-nexus-Release/</url>
+            <url>http://192.168.159.142:8081/repository/maven-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
